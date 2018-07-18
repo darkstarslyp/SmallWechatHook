@@ -1,0 +1,5 @@
+<text>首页，会自动跳转到详情页</text>
+
+
+
+<button  type="primary" bindtap='onClickToDetail'>进入详情页</button>
